@@ -12,7 +12,7 @@ This profile is an "accurate" replica of China's Nvidia Shield TV's Punch-Out!! 
 
 -Relative Motion (control Stick/Dpad to move the cursor)
 
--Vibrations (Xinput Only, unless you installed DS4 for your wireless controller. https://github.com/Jays2Kings/DS4Windows)
+-Vibrations (Xinput Only, unless you installed [DS4Windows](https://github.com/Ryochan7/DS4Windows) for your wireless controller. )
 
 ## Cons:
 -Wiimote's "A" Button conflict (Uses "1" as bind instead of "3" because Nvidia uses "3" as both "A" and "1" buttons of the Wiimote)
