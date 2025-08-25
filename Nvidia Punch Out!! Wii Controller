@@ -1,0 +1,21 @@
+[Profile]
+Device = DInput/0/Wireless Controller
+Buttons/A = `Button 0`|`XInput/0/Gamepad:Button X`
+Buttons/B = `Button 8`|`XInput/0/Gamepad:Back`
+Buttons/1 = `Button 1`|`XInput/0/Gamepad:Button A`|`XInput/0/Gamepad:Shoulder L`|`Button 4`
+Buttons/2 = `Button 5`|`Button 2`|`XInput/0/Gamepad:Button B`|`XInput/0/Gamepad:Shoulder R`
+Buttons/- = `Button 3`|`XInput/0/Gamepad:Button Y`|`DInput/0/Keyboard Mouse:SPACE`|`Full Axis Xr+`|`Full Axis Yr+`|`XInput/0/Gamepad:Trigger L`|`XInput/0/Gamepad:Trigger R`
+Buttons/+ = `Button 9`|`XInput/0/Gamepad:Start`
+Buttons/Home = `XInput/0/Gamepad:Guide`|`Button 12`
+D-Pad/Up = `Hat 0 W`|`Axis X-`|`XInput/0/Gamepad:Left X-`|`XInput/0/Gamepad:Pad W`
+D-Pad/Down = `Hat 0 E`|`Axis X+`|`XInput/0/Gamepad:Left X+`|`XInput/0/Gamepad:Pad E`
+D-Pad/Left = `Hat 0 S`|`Axis Y+`|`XInput/0/Gamepad:Pad S`|`XInput/0/Gamepad:Left Y-`
+D-Pad/Right = `Hat 0 N`|`Axis Y-`|`XInput/0/Gamepad:Pad N`|`XInput/0/Gamepad:Left Y+`
+IR/Dead Zone = 15.
+IR/Total Pitch = 25.
+IR/Relative Input = +1000
+IR/Up = `Axis Y-`|`XInput/0/Gamepad:Left Y+`|`Hat 0 N`|`XInput/0/Gamepad:Pad N`
+IR/Down = `Axis Y+`|`XInput/0/Gamepad:Left Y-`|`Hat 0 S`|`XInput/0/Gamepad:Pad S`
+IR/Left = `Axis X-`|`XInput/0/Gamepad:Left X-`|`Hat 0 W`|`XInput/0/Gamepad:Pad W`
+IR/Right = `Axis X+`|`XInput/0/Gamepad:Left X+`|`Hat 0 E`|`XInput/0/Gamepad:Pad E`
+Rumble/Motor = `XInput/0/Gamepad:Motor L`|`XInput/0/Gamepad:Motor R`|`WGInput/0/Sony DualShock4 Gamepad:Motor L`|`WGInput/0/Sony DualShock4 Gamepad:Motor R`|`WGInput/0/Sony DualShock4 Gamepad:Trigger L`|`WGInput/0/Sony DualShock4 Gamepad:Trigger R`|`WGInput/0/Sony DualShock4 Gamepad:Rumble 0`|`WGInput/0/Sony DualShock4 Gamepad:Rumble 1`|`WGInput/0/Xbox 360 Controller for Windows:Motor L`|`WGInput/0/Xbox 360 Controller for Windows:Motor R`|`WGInput/0/Xbox 360 Controller for Windows:Trigger L`|`WGInput/0/Xbox 360 Controller for Windows:Trigger R`|`WGInput/0/Xbox 360 Controller for Windows:Rumble 0`|`WGInput/0/Xbox 360 Controller for Windows:Rumble 1`
