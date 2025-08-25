@@ -6,7 +6,7 @@ This profile is an "accurate" replica of China's Nvidia Shield TV's Punch-Out!! 
 <img width="2298" height="859" alt="fffff" src="https://github.com/user-attachments/assets/db31ad1c-7a19-47d1-8113-90e47ed0b859" />
 
 ## Pros:
--Supports all controllers (Dinput/Xinput)
+-Supports all controllers (Dinput/Xinput, recommend using DS4Windows for Dinput controllers)
 
 -Chinese Nvidia Shield TV "accurate" Profile
 
