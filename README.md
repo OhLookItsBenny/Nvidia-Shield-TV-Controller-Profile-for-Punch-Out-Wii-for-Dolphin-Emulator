@@ -16,6 +16,9 @@ This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Ou
 
 # Cons:
 -Wiimote's "A" button and Shield's "A" button conflict:
+
   -Wiimote uses "A" as "Enter" and "Star punch".
+  
   -Shield uses "A" as "Enter" and "Left jab".
+  
 (This is the only "Con" because people may familiar with the "A" button as "Enter", so you'll need to rely on the "X" button for now).
