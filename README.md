@@ -16,13 +16,17 @@ This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Ou
 -Vibrations
 
 # Issues:
--Wiimote's "A" button and Shield's "A" button conflict:
+-Wiimote's "A" And "B" button and Shield's "A" And "B"  button conflict:
 
 • Wiimote uses "A" as "Enter" and "Star punch".
   
 • Shield uses "A" as "Enter" and "Left jab".
+
+• Wiimote uses "B" as "Back".
+
+• Shield (Presumably) uses "B" as "Back" and "Right jab".
   
-(This is the only issue because people may familiar with the "A" button as "Enter", so you'll need to rely on the "X" button for now).
+(people may familiar with the "A" button as "Enter" and "B" as "Back", so you'll need to rely on the "X" button and the "Back" button for now).
 
 # Optional Button Icon Mod (Tutotial and Screenshots):
 <img width="2218" height="1878" alt="tutorial" src="https://github.com/user-attachments/assets/d37dc379-edd7-41e5-8bb7-aca7d904948b" />
