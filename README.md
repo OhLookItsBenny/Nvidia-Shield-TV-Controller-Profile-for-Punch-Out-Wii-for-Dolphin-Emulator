@@ -35,3 +35,6 @@ This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Ou
 <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/b2b3e04b-d1e1-4087-b748-f77ef3c1b0b0" />
 <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/f5f10c76-44a8-4565-961f-e37b27c2ce19" />
 <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/64bc5349-d8c0-4ccc-b2a9-5fae6cacfaa5" />
+
+# Chinese Nvidia Shield TV Punch-Out!! Screenshots
+<img width="2880" height="1080" alt="chinaaaa" src="https://github.com/user-attachments/assets/9a64d545-e8a5-4bbb-8946-b4a04604a213" />
