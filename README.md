@@ -3,8 +3,8 @@
 This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Out!! Wii's controller's profile, *"XINPUT" CONTROLLERS ONLY!*, (Wired XBOX 360 Crontroller as an example). ([DS4Windows](https://github.com/Ryochan7/DS4Windows) is reccomended when you are connecting with your wireless controller or remap the profile to your wireless controller's buttons).
 
 # Instructions:
-<img width="1944" height="979" alt="fffff" src="https://github.com/user-attachments/assets/3c5803a8-48ff-482f-a540-61110a0c8ba8" />
-<img width="1495" height="1265" alt="instal" src="https://github.com/user-attachments/assets/3649d0e9-6d99-4552-8f20-a1ac83e3fde5" />
+<img width="1944" height="979" alt="instal" src="https://github.com/user-attachments/assets/5792b3ca-c53c-423a-842c-892ffe4f51f0" />
+<img width="1495" height="1091" alt="instal" src="https://github.com/user-attachments/assets/4fbd6469-34b3-4ac2-8053-5141ff6fc369" />
 
 
 # Features:
@@ -16,17 +16,13 @@ This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Ou
 -Vibrations
 
 # Issues:
--Wiimote's "A" And "B" button and Shield's "A" And "B"  button conflict:
+-Wiimote's "A" button and Shield's "A" button conflict:
 
 • Wiimote uses "A" as "Enter" and "Star punch".
   
 • Shield uses "A" as "Enter" and "Left jab".
-
-• Wiimote uses "B" as "Back".
-
-• Shield (Presumably) uses "B" as "Back" and "Right jab".
   
-(people may familiar with the "A" button as "Enter" and "B" as "Back", so you'll need to rely on the "X" button and the "Back" button for now).
+(people may familiar with the "A" button as "Enter", so you'll need to rely on the "X" button for now).
 
 # Optional Button Icon Mod (Tutotial and Screenshots):
 <img width="2218" height="1878" alt="tutorial" src="https://github.com/user-attachments/assets/d37dc379-edd7-41e5-8bb7-aca7d904948b" />
