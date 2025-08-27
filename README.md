@@ -1,6 +1,6 @@
 # Nvidia Shield TV Controller Profile for Punch-Out!! Wii (Dolphin Emulator)
 
-This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Out!! Wii's controller's profile, *"XINPUT" CONTROLLERS ONLY!*. ([DS4Windows](https://github.com/Ryochan7/DS4Windows) is reccomended when you are connecting with your wireless controller or remap the profile to your wireless controller's buttons).
+This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Out!! Wii's controller's profile, *"XINPUT" CONTROLLERS ONLY!*, (Third-Party Wired XBOX 360 Crontoller as an example). ([DS4Windows](https://github.com/Ryochan7/DS4Windows) is reccomended when you are connecting with your wireless controller or remap the profile to your wireless controller's buttons).
 
 # Instructions:
 <img width="1944" height="979" alt="fffff" src="https://github.com/user-attachments/assets/3c5803a8-48ff-482f-a540-61110a0c8ba8" />
