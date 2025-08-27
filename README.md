@@ -2,8 +2,10 @@
 
 This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Out!! Wii's controller's profile, *"XINPUT" CONTROLLERS ONLY!*. ([DS4Windows](https://github.com/Ryochan7/DS4Windows) is reccomended when you are connecting with your wireless controller or remap the profile to your wireless controller's buttons).
 
-# Guide:
+# Instructions:
 <img width="1944" height="979" alt="fffff" src="https://github.com/user-attachments/assets/3c5803a8-48ff-482f-a540-61110a0c8ba8" />
+<img width="1495" height="1265" alt="instal" src="https://github.com/user-attachments/assets/3649d0e9-6d99-4552-8f20-a1ac83e3fde5" />
+
 
 # Features:
 
