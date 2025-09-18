@@ -27,15 +27,16 @@ This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Ou
 
 # Optional Button Icon Mod (Tutotial and Screenshots):
 <img width="2218" height="1878" alt="tutorial" src="https://github.com/user-attachments/assets/d37dc379-edd7-41e5-8bb7-aca7d904948b" />
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/03f47785-0a14-49a5-afbe-4d7135293cb8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4598444d-8997-4985-8d3c-bdc7505a7c57" />
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/81648ad5-60de-49bc-8e58-b4cf746f796d" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/6384c283-54c1-4b13-b556-07972b7ce784" />
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/08fc13c8-12d0-4ce2-a5a7-687e85727603" />
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/5fa2659e-4f05-4dd8-9088-c16e024a159a" />
-<img width="1920" height="1080" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/cffad3a2-122f-4439-bcbc-830d9849f734" />
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/b2b3e04b-d1e1-4087-b748-f77ef3c1b0b0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b05b6bd0-5f1a-40bf-91b9-57aecfc42d61" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/901fcdec-310d-470e-b9d7-5815d726c822" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/79f84503-21bb-4802-a852-583dc7ee3468" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/161d1025-d350-45cf-b2da-4c3a8df1110d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec8490a4-34fc-47f8-a872-07accf8b75f4" />
 <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/f5f10c76-44a8-4565-961f-e37b27c2ce19" />
-<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/64bc5349-d8c0-4ccc-b2a9-5fae6cacfaa5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/959bf229-cacc-4855-86b9-0dbd7866913f" />
 
 # Chinese Nvidia Shield TV Punch-Out!! Screenshots
 <img width="2880" height="1619" alt="image" src="https://github.com/user-attachments/assets/441d5048-3d27-43a6-afa8-547c299317e5" />
