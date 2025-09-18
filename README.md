@@ -1,17 +1,18 @@
-# Nvidia Shield TV Controller Profile for Punch-Out!! Wii (Dolphin Emulator)
+# Nvidia Shield TV Controller Scheme for Punch-Out!! Wii (Dolphin Emulator)
+(All Thanks to [@ChineseNintendoUnofficial](https://www.youtube.com/@ChineseNintendoUnofficial) for researchs)
 
-This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Out!! Wii's controller's profile, *"XINPUT" CONTROLLERS ONLY!*, (Wired XBOX 360 Crontroller as an example). ([DS4Windows](https://github.com/Ryochan7/DS4Windows) is reccomended when you are connecting with your wireless controller, or if you aren't familiar with using DS4Windows, remap the profile to your wireless controller's buttons).
+This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Out!! Wii's controller scheme, *"XINPUT" CONTROLLERS ONLY!*, (Wired XBOX 360 Crontroller as an example). ([DS4Windows](https://github.com/Ryochan7/DS4Windows) is reccomended when you are connecting with your wireless controller, or if you aren't familiar with using DS4Windows, remap the profile to your wireless controller's buttons).
 
 # Instructions:
-<img width="1944" height="979" alt="instal" src="https://github.com/user-attachments/assets/5792b3ca-c53c-423a-842c-892ffe4f51f0" />
+<img width="1944" height="979" alt="image" src="https://github.com/user-attachments/assets/66509502-d3e9-4a0b-be93-9e192acac91e" />
 <img width="1495" height="1091" alt="instal" src="https://github.com/user-attachments/assets/4fbd6469-34b3-4ac2-8053-5141ff6fc369" />
 
 
 # Features:
 
--Chinese Nvidia Shield TV "accurate" Profile.
+-Chinese Nvidia Shield TV "accurate" Controller Scheme Profile.
 
--Relative Motion (Use Analog Stick/Dpad to move the cursor).
+-Relative Motion (Use Analog Stick move the glove cursor).
 
 -Vibrations
 
@@ -20,7 +21,7 @@ This profile is an "accurate" replica of the Chinese Nvidia Shield TV's Punch-Ou
 
 • Wiimote uses "A" as "Enter" and "Star punch".
   
-• Shield uses "A" as "Enter" and "Left jab".
+• Shield uses "A" as "Enter" and "Left Hook".
   
 (people may familiar with the "A" button as "Enter", so you'll need to rely on the "X" button for now).
 
